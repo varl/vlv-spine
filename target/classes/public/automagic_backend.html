@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>vlv -- Automatic backend</title>
+    <link rel="shortcut icon" href="static/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="static/css/bootstrap.css"/>
+    <link rel="stylesheet" href="static/css/bootstrap-theme.css"/>
+    <script src="static/js/bootstrap.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <h1><span class="glyphicon glyphicon-fire"></span>&nbsp;&nbsp;<a href="index.html" title="Back to the list">../</a></h1>
+        </div>
+        <div class="row">
+            <div>
+                <p><h2>Automatic backend</h2>
+<p>August 2013</p>
+<p>I generally dislike writing backends for one-off projects and prefer to rely on
+things like Django's built-in administration interface. It works fine, even in
+production, but it isn't the prettiest of the bunch. That's OK. That's not the
+main focus, and it shouldn't be.</p>
+<p>But say I'm not using Django. Maybe I'm using nodejs. Maybe, I'm a Flask-man. I
+still don't want to roll my own backend.</p>
+<p>So, I have an idea for an automatic backend that you point to an empty database
+and a directoy that contains some files.</p>
+<p>Given the HTML-structure I should be able to generate a passable database model
+and from that, generate relevant controls for adding content. Quick 'n' dirty
+style web-development, <em>aha</em>, just the way, <em>aha</em>, I like it.</p>
+<p>Most data that we need is contained in the templates, but some conventions are
+needed for our backend to be able to pick up various models, and to start we
+would have to restrict ourselves to a template format, but keep it generic
+enough so we can plug in new template formats.</p>
+<p>A simple example would be:</p>
+<pre><code>{% for user in users %}
+  {{ user.id }}, {{user.name}}
+  &lt;ul&gt;
+    {% for post in users.posts %}
+      &lt;li&gt;{{post.title}}&lt;br/&gt;{{post.description}}&lt;/li&gt;
+    {% endfor %}
+  &lt;/ul&gt;
+{% endfor %}
+</code></pre>
+<p>From this we can deduce that there are many users, so we can build a table
+called &ldquo;users&rdquo; to contain those. We can then deduce that there are posts
+related to a user, so we can establish that a model is needed for that as well.</p>
+<p>Thinking about it, it is probably wise to try to generate the models from this
+information, and then try to generate a database model from those models, so we
+go deeper and deeper. This also means that our tools are neatly divided, and if
+we want to write our models instead, we are still able to generate a backend
+from those.</p>
+<p>/v.</p>
+</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
