@@ -1,5 +1,6 @@
 Why does the post still use stamps?
 -----------------------------------
+2012
 
 1. Order "stamps" with a QR code on them containing your mobile phonenumber
 2. Put the QR-stamp on a letter 

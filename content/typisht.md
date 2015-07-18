@@ -30,7 +30,7 @@ of information into a coherent thought. Even now, writing this, it's written as
 it is thought.
 
 At least the train of thought is allowed to follow the rails to the end, and now
-being forced to slow down and nearly stop, for a bit, everytime the context 
+being forced to slow down and nearly stop, for a bit, every time the context 
 changes. Friends talking about games, acquaintances talking about a link, posted
 minutes ago, until the next link comes along, what I am trying to do, the music
 changed track, wait, let me just add this next song to the playlist, oh, James

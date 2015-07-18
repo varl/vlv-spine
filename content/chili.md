@@ -22,10 +22,11 @@ Quoted in full below.
 > Ganska snart kunde Tolbert slå fast vad som a b s o l u t inte får
 > finnas med i en chili:
 > 
-> tomater
-> vita bönor
-> gul lök
-> köttfärs
+> * tomater
+> * vita bönor
+> * gul lök
+> * köttfärs
+>
 > Äkta chili lagar man nämligen på hela köttbitar och rätt lagad ska den
 > vara just vad namnet chili con carne antyder: rödpeppar med en 
 > viss tillsats av kött. 
@@ -36,7 +37,7 @@ Quoted in full below.
 > 
 > Till sist tvingades Tolbert arrangera ett världens första chili-VM och det 
 > recept som vi publicerar här är en variant av det som segrade 
-> - NORTH TEXAS RED. 
+> \- NORTH TEXAS RED. 
 > 
 > Det recept som följer är en lätt försvanekad version. Ingen som prövat det har 
 > klagat på styrkan, men många har haft svårt att hitta de rätta ingredienserna. 
@@ -45,69 +46,71 @@ Quoted in full below.
 > 
 > Det här är vad du behöver:
 > 
-> En mycket stor svart järngryta
-> En stekpanna
-> En liten kastrull
-> En helflaska tequila
-> Sex burkar ljust öl, helst det mexikanska Corona.
-> 5 torkade ancho-pepparfrukter (De är stora, mörkt brunröda och finns i
-> affärer som säljer latinamerikansk mat. I nödfall kan de ersättas med en 
-> blandning av mörkrött chilipulver och ett antal flådda, urkärnade 
-> röda paprikor.)
-> 1 chipotle-peppar (Röd, rökt. Finns konserverad i latinamerikanska
-> affärer.)
-> 3 birdseye-pepparfrukter (Små spetsiga klarröda. Kan ersättas av
-> torkad, mald piri-piri).
-> 4 jalapeno-pepparfrukter (Knubbiga, gröna. Finns på burk i de flesta
-> välsorterade livsmedelsaffärer. Ta den starka varianten.)
-> Baconfett (eller olja) att steka i.
-> 10 stora vitlöksklyftor, grovt hackade.
-> 5 kilo oxkött, skuret i centimeterstora tärningar.
-> En halv kopp mjöl.
-> En kopp chilipulver.
-> Två koppar mörk oxbuljong.
-> 2 matskedar spiskummin. (Kännarna kan inte komma överens om 
-> kryddan ska rostas innan den används eller inte.)
-> 2 matskedar oregano.
-> 2 matskedar malda korianderfrön.
-> 1/2 matsked socker.
-> Salt, efter smak. Börja försiktigt!
-> Lite grovt majsmjöl, masa harina.
+> * En mycket stor svart järngryta
+> * En stekpanna
+> * En liten kastrull
+> * En helflaska tequila
+> * Sex burkar ljust öl, helst det mexikanska Corona.
+> * 5 torkade ancho-pepparfrukter (De är stora, mörkt brunröda och finns i
+> * affärer som säljer latinamerikansk mat. I nödfall kan de ersättas med en 
+> * blandning av mörkrött chilipulver och ett antal flådda, urkärnade 
+> * röda paprikor.)
+> * 1 chipotle-peppar (Röd, rökt. Finns konserverad i latinamerikanska
+> * affärer.)
+> * 3 birdseye-pepparfrukter (Små spetsiga klarröda. Kan ersättas av
+> * torkad, mald piri-piri).
+> * 4 jalapeno-pepparfrukter (Knubbiga, gröna. Finns på burk i de flesta
+> * välsorterade livsmedelsaffärer. Ta den starka varianten.)
+> * Baconfett (eller olja) att steka i.
+> * 10 stora vitlöksklyftor, grovt hackade.
+> * 5 kilo oxkött, skuret i centimeterstora tärningar.
+> * En halv kopp mjöl.
+> * En kopp chilipulver.
+> * Två koppar mörk oxbuljong.
+> * 2 matskedar spiskummin. (Kännarna kan inte komma överens om 
+> * kryddan ska rostas innan den används eller inte.)
+> * 2 matskedar oregano.
+> * 2 matskedar malda korianderfrön.
+> * 1/2 matsked socker.
+> * Salt, efter smak. Börja försiktigt!
+> * Lite grovt majsmjöl, masa harina.
+>
 > Så här gör du:
 > 
-> Ta dig en rejäl tequila. En platta med gamla Hank Williams-låtar bidrar
+> 1. Ta dig en rejäl tequila. En platta med gamla Hank Williams-låtar bidrar
 > också till så att det rätta chili-perspektivet på tillvaron infinner sig.
-> Börja sedan med pepparn. Rensa bort stjälkar och frön. Koka den torkade
+> 2. Börja sedan med pepparn. Rensa bort stjälkar och frön. Koka den torkade
 > pepparn 15 minuter under lock, ställ åt sidan och låtsvalna.
-> Rensa och hacka den övriga pepparn. Ställ åt sidan. (Här är 
+> 3. Rensa och hacka den övriga pepparn. Ställ åt sidan. (Här är 
 > en varning på plats. Peppar är starkt. Den BRÄNNS. Se upp för
 > ångorna när du kokar och tvätta händerna noga efteråt. Och 
 > tänk noga på vad då gör med fingrarna det närmaste dygnet. 
 > Om du petar dig i näsan kan du lika gärna göra det med
 > lödkolven.)
-> Ta ett glas tequila till, ett rejält glas. Det kommer att behövas. Nu
+> 4. Ta ett glas tequila till, ett rejält glas. Det kommer att behövas. Nu
 > börjar det nämligen dra ihop sig.
-> Fräs vitlöken mjuk och brun. Lägg i grytan.
-> Öka värmen i stekpannan och börja stek köttet. Ta lite i sänder och rör
+> 5. Fräs vitlöken mjuk och brun. Lägg i grytan.
+> 6. Öka värmen i stekpannan och börja stek köttet. Ta lite i sänder och rör
 > om ordentligt så att bitarna steks på alla sidor. Lägg ner i grytan. Detta är 
 > ett varmt, osigt och tidsödande slitgöra som kräver både tålamod och tequila.
-> Blanda mjöl och chilipulver. Strö över köttet i grytan.
-> Sila av den blötlagda pepparn, men spara vattnet. Mosa den kokta
+> 7. Blanda mjöl och chilipulver. Strö över köttet i grytan.
+> 8. Sila av den blötlagda pepparn, men spara vattnet. Mosa den kokta
 > pepparn, tillsätt sedan all peppar till köttet.
-> Häll på pepparvattnet, oxbuljongen och öl tills vätskan täcker köttet.
+> 9. Häll på pepparvattnet, oxbuljongen och öl tills vätskan täcker köttet.
 > Koka upp.
-> Nu är chilin på väg. En nöjd kock kan ta ett steg tillbaka, beundra sin
+> 10. Nu är chilin på väg. En nöjd kock kan ta ett steg tillbaka, beundra sin
 > skapelse och belönar sig själv med ytterligare en tequila, raskt åtföljd 
 > av det resterande ölet.
-> Låt chilin småkoka. Rör ner spiskummin, oregano och koriander. Rör ofta
+> 11. Låt chilin småkoka. Rör ner spiskummin, oregano och koriander. Rör ofta
 > så att mästerverket inte bränns fast i botten.
-> Fortsätt kokningen tills köttet börjar falla sönder. Det bör ta två,
+> 12. Fortsätt kokningen tills köttet börjar falla sönder. Det bör ta två,
 > tre timmar.
-> Tequila!!!
-> Det kan hända att chilin är lite lös när den närmar sig slutkokningen.
+> 13. Tequila!!!
+> 14. Det kan hända att chilin är lite lös när den närmar sig slutkokningen.
 > Riktiga Texasbor reder den då med grovt majsmjöl.
-> Gör slut på den sista skvätten tequila (om du inte redan gjort det).
-> Ta av grytan och skumma bort det fett som samlats ovanpå.
+> 15. Gör slut på den sista skvätten tequila (om du inte redan gjort det).
+> 16. Ta av grytan och skumma bort det fett som samlats ovanpå.
+>
 > Den här satsen räcker till ett tjugotal normala människor, men högst
 > tio chiliälskare. 
 > 

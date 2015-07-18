@@ -1,5 +1,6 @@
 Kindress
 --------
+2012
 
 Around a year ago, I started a project I call [Kindress](https://github.com/varl/kindress)
 which is a RSS-to-Kindle formatter and converter. I didn't really have a use for 

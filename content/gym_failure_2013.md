@@ -1,5 +1,6 @@
 Gym failure 2013 ed
 ===================
+August 2013
 
 It is a harsh realisation that I have once again managed to injure myself
 to the point of it ruining a year of gains.
